@@ -1,1 +1,1 @@
-console.log('Hellow World' {0})
+console.log("hello");
